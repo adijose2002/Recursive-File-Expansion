@@ -1,0 +1,8 @@
+Loop detection is sometimes tricky
+
+#include "f5.txt"
+
+
+Just as this one
+
+#include "f3.txt"
